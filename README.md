@@ -1,5 +1,7 @@
 # Chat Bot Application
 
+https://github.com/user-attachments/assets/249359c7-03de-4569-ad04-9550d062effd
+
 A Flask-based chatbot application using Google's Gemini API.
 
 ## Deployment to Render
